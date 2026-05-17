@@ -1,4 +1,4 @@
-Glad you could make it — I'm Michelle!
+Glad you could make it — I'm Michelle Kelly.
 
 Check out my projects, currently building an automous operating system for home services.
 
