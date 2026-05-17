@@ -1,4 +1,6 @@
-## Hi there 👋
+Glad you could make it — I'm Michelle!
+
+Check out my projects, currently building an automous operating system for home services.
 
 <!--
 **MichelleBKelly/MichelleBKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
