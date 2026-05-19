@@ -1,6 +1,6 @@
 Glad you could make it — I'm Michelle Kelly.
 
-Check out my projects, currently building an automous operating system for home services.
+Check out my projects below, I'm currently building an automous operating system for home services.
 
 <!--
 **MichelleBKelly/MichelleBKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
