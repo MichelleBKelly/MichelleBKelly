@@ -1,6 +1,6 @@
 Glad you could make it — I'm Michelle Kelly.
 
-Check out my projects below, I'm currently building an AI receptionist for the trades.
+Check out my projects below, I'm currently building a software connecting English speaking volunteers to schools in Thailand to practice conversing in English.
 
 <!--
 **MichelleBKelly/MichelleBKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
