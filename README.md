@@ -1,7 +1,6 @@
 Glad you could make it — I'm Michelle Kelly.
 
-Check out my projects below, I'm currently building a software connecting English speaking volunteers to schools in Thailand to practice conversing in English.
-
+Check out my projects below, I'm currently building a software connecting volunteers with schools in Thailand to help students build confidence through conversational English.
 <!--
 **MichelleBKelly/MichelleBKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
